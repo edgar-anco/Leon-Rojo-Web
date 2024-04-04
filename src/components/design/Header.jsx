@@ -18,16 +18,6 @@ export const SideLines = () => {
   );
 };
 
-export const BackgroundCircles = () => {
-  return (
-    <>
-      <div className="absolute top-[4.4rem] left-16 w-3 h-3 bg-gradient-to-b from-[#4FAC03 ] to-[#1A1A32] rounded-full"></div>
-      <div className="absolute top-[12.6rem] right-16 w-3 h-3 bg-gradient-to-b from-[#A4AC03 ] to-[#1A1A32] rounded-full"></div>
-      <div className="absolute top-[26.8rem] left-12 w-6 h-6 bg-gradient-to-b from-[#AC0C04] to-[#1A1A32] rounded-full"></div>
-    </>
-  );
-};
-
 export const HamburgerMenu = () => {
   return (
     <div className="absolute inset-0 pointer-events-none lg:hidden">
@@ -44,8 +34,6 @@ export const HamburgerMenu = () => {
       <Rings />
 
       <SideLines />
-
-      <BackgroundCircles />
     </div>
   );
 };
