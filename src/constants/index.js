@@ -34,7 +34,8 @@ import {
   telegram,
   twitter,
   yourlogo,
-} from "../../public/assets";
+  //} from "../../public/assets";
+} from "../assets";
 
 export const navigation = [
   {
@@ -71,7 +72,7 @@ export const navigation = [
   },
 ];
 
-export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
+export const principalIcons = [homeSmile, file02, searchMd, plusSquare];
 
 export const notificationImages = [notification4, notification3, notification2];
 

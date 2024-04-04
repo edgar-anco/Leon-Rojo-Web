@@ -21,9 +21,9 @@ import sliders04 from "./sliders-04.svg";
 import loading from "./loading.png";
 import background from "./background.jpg";
 
-import curve from "./hero/curve.png";
-import robot from "./hero/robot.jpg";
-import heroBackground from "./hero/hero-background.jpg";
+import curve from "./principal/curve.png";
+import robot from "./principal/robot.jpg";
+import principalBackground from "./principal/principal-background.jpg";
 
 import curve1 from "./collaboration/curve-1.svg";
 import curve2 from "./collaboration/curve-2.svg";
@@ -45,7 +45,7 @@ import stars from "./pricing/stars.svg";
 
 import coins from "./roadmap/coins.png";
 import done from "./roadmap/done.svg";
-import hero from "./roadmap/hero.png";
+import principal from "./roadmap/principal.png";
 import roadmap1 from "./roadmap/image-1.png";
 import roadmap2 from "./roadmap/image-2.png";
 import roadmap3 from "./roadmap/image-3.png";
@@ -100,7 +100,7 @@ export {
   background,
   curve,
   robot,
-  heroBackground,
+  principalBackground,
   curve1,
   curve2,
   discord,
@@ -118,7 +118,7 @@ export {
   stars,
   coins,
   done,
-  hero,
+  principal,
   roadmap1,
   roadmap2,
   roadmap3,
