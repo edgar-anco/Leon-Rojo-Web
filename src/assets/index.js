@@ -22,7 +22,7 @@ import loading from "./loading.png";
 import background from "./background.png";
 
 import curve from "./principal/curve.png";
-import robot from "./principal/robot.jpg";
+import leonRojoBanda from "./principal/leonRojoBanda.jpg";
 import principalBackground from "./principal/principal-background.jpg";
 
 import curve1 from "./collaboration/curve-1.svg";
@@ -99,7 +99,7 @@ export {
   loading,
   background,
   curve,
-  robot,
+  leonRojoBanda,
   principalBackground,
   curve1,
   curve2,
