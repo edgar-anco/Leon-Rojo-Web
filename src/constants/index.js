@@ -6,8 +6,6 @@ import {
   benefitImage2,
   bruno,
   christian,
-  chromecast,
-  disc02,
   discordBlack,
   edgar,
   facebook,
@@ -20,14 +18,11 @@ import {
   notification4,
   pepe,
   plusSquare,
-  recording01,
-  recording03,
   roadmap1,
   roadmap2,
   roadmap3,
   roadmap4,
   searchMd,
-  sliders04,
   telegram,
   twitter,
   yourlogo,
@@ -57,18 +52,10 @@ export const notificationImages = [notification4, notification3, notification2];
 
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
-export const brainwaveServices = [
+export const leonRojoContacto = [
   "Photo generating",
   "Photo enhance",
   "Seamless Integration",
-];
-
-export const brainwaveServicesIcons = [
-  recording03,
-  recording01,
-  disc02,
-  chromecast,
-  sliders04,
 ];
 
 export const roadmap = [

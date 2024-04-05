@@ -33,9 +33,7 @@ import edgar from "./bio/edgar.png";
 import henry from "./bio/henry.png";
 import pepe from "./bio/pepe.png";
 
-import service1 from "./services/service-1.png";
-import service2 from "./services/service-2.png";
-import service3 from "./services/service-3.png";
+import contact from "./contact/contact.png";
 
 import lines from "./pricing/lines.svg";
 import stars from "./pricing/stars.svg";
@@ -105,9 +103,7 @@ export {
   edgar,
   henry,
   pepe,
-  service1,
-  service2,
-  service3,
+  contact,
   lines,
   stars,
   coins,
