@@ -27,14 +27,6 @@ import principalBackground from "./principal/principal-background.png";
 
 import curve1 from "./bio/curve-1.svg";
 import curve2 from "./bio/curve-2.svg";
-import discord from "./bio/discord.png";
-import figma from "./bio/figma.png";
-import framer from "./bio/framer.png";
-import notion from "./bio/notion.png";
-import photoshop from "./bio/photoshop.png";
-import protopie from "./bio/protopie.png";
-import raindrop from "./bio/raindrop.png";
-import slack from "./bio/slack.png";
 import bruno from "./bio/bruno.png";
 import christian from "./bio/christian.png";
 import edgar from "./bio/edgar.png";
@@ -108,14 +100,6 @@ export {
   principalBackground,
   curve1,
   curve2,
-  discord,
-  figma,
-  framer,
-  notion,
-  photoshop,
-  protopie,
-  raindrop,
-  slack,
   bruno,
   christian,
   edgar,
