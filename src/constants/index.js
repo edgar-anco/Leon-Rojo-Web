@@ -127,7 +127,7 @@ export const bioContent = [
   },
   {
     id: "3",
-    title: "Bruno Carmelo 'El hombre de las mil bandas'",
+    title: "Bruno Carmelo 'Sebastián Yatra Funko'",
     text: "Guitarra y coros",
   },
   {
