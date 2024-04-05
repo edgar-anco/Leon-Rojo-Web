@@ -25,16 +25,21 @@ import curve from "./principal/curve.png";
 import leonRojoBanda from "./principal/leonRojoBanda.jpg";
 import principalBackground from "./principal/principal-background.png";
 
-import curve1 from "./collaboration/curve-1.svg";
-import curve2 from "./collaboration/curve-2.svg";
-import discord from "./collaboration/discord.png";
-import figma from "./collaboration/figma.png";
-import framer from "./collaboration/framer.png";
-import notion from "./collaboration/notion.png";
-import photoshop from "./collaboration/photoshop.png";
-import protopie from "./collaboration/protopie.png";
-import raindrop from "./collaboration/raindrop.png";
-import slack from "./collaboration/slack.png";
+import curve1 from "./bio/curve-1.svg";
+import curve2 from "./bio/curve-2.svg";
+import discord from "./bio/discord.png";
+import figma from "./bio/figma.png";
+import framer from "./bio/framer.png";
+import notion from "./bio/notion.png";
+import photoshop from "./bio/photoshop.png";
+import protopie from "./bio/protopie.png";
+import raindrop from "./bio/raindrop.png";
+import slack from "./bio/slack.png";
+import bruno from "./bio/bruno.png";
+import christian from "./bio/christian.png";
+import edgar from "./bio/edgar.png";
+import henry from "./bio/henry.png";
+import pepe from "./bio/pepe.png";
 
 import service1 from "./services/service-1.png";
 import service2 from "./services/service-2.png";
@@ -111,6 +116,11 @@ export {
   protopie,
   raindrop,
   slack,
+  bruno,
+  christian,
+  edgar,
+  henry,
+  pepe,
   service1,
   service2,
   service3,

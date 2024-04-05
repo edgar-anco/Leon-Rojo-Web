@@ -4,20 +4,25 @@ import {
   benefitIcon3,
   benefitIcon4,
   benefitImage2,
+  bruno,
+  christian,
   chromecast,
   disc02,
   discord,
   discordBlack,
+  edgar,
   facebook,
   figma,
   file02,
   framer,
+  henry,
   homeSmile,
   instagram,
   notification2,
   notification3,
   notification4,
   notion,
+  pepe,
   photoshop,
   plusSquare,
   protopie,
@@ -34,7 +39,6 @@ import {
   telegram,
   twitter,
   yourlogo,
-  //} from "../../public/assets";
 } from "../assets";
 
 export const navigation = [
@@ -111,81 +115,76 @@ export const roadmap = [
   },
 ];
 
-export const collabText =
-  "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+export const bioText = "Hay apoyo, falta talento... ah no, así no era";
 
-export const collabContent = [
+export const bioContent = [
   {
     id: "0",
-    title: "Seamless Integration",
-    text: collabText,
+    title: "Henry Cutipa 'Crazy Dog'",
+    text: "Voz principal",
   },
   {
     id: "1",
-    title: "Smart Automation",
+    title: "Edgar Anco 'Lucky Sax'",
+    text: "Saxo y coros",
   },
   {
     id: "2",
-    title: "Top-notch Security",
+    title: "José Luis Porras 'El bajista más fiel'",
+    text: "Bajo",
+  },
+  {
+    id: "3",
+    title: "Bruno Carmelo 'El hombre de las mil bandas'",
+    text: "Guitarra y coros",
+  },
+  {
+    id: "4",
+    title: "Christian Flores 'Koalón Drums'",
+    text: "Batería",
+  },
+  {
+    id: "5",
+    title: "Jhoel Mamani 'El Mariachi Loco'",
+    text: "Trompeta",
   },
 ];
 
-export const collabApps = [
+export const bioInstruments = [
   {
     id: "0",
-    title: "Figma",
-    icon: figma,
-    width: 26,
-    height: 36,
+    title: "Henry",
+    icon: henry,
+    width: 38,
+    height: 38,
   },
   {
     id: "1",
-    title: "Notion",
-    icon: notion,
+    title: "Pepe",
+    icon: pepe,
     width: 34,
     height: 36,
   },
   {
     id: "2",
-    title: "Discord",
-    icon: discord,
+    title: "Edgar",
+    icon: edgar,
     width: 36,
     height: 28,
   },
   {
     id: "3",
-    title: "Slack",
-    icon: slack,
+    title: "Christian",
+    icon: christian,
     width: 34,
     height: 35,
   },
   {
     id: "4",
-    title: "Photoshop",
-    icon: photoshop,
+    title: "Bruno",
+    icon: bruno,
     width: 34,
     height: 34,
-  },
-  {
-    id: "5",
-    title: "Protopie",
-    icon: protopie,
-    width: 34,
-    height: 34,
-  },
-  {
-    id: "6",
-    title: "Framer",
-    icon: framer,
-    width: 26,
-    height: 34,
-  },
-  {
-    id: "7",
-    title: "Raindrop",
-    icon: raindrop,
-    width: 38,
-    height: 32,
   },
 ];
 
