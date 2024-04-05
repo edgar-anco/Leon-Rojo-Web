@@ -38,7 +38,7 @@ const Header = () => {
         <a className="block w-[12rem] xl:mr-8 text-center" href="#principal">
           <img
             src={leonRojo}
-            width={40}
+            width={102}
             height={40}
             alt="Leon Rojo"
             className="mx-auto"
