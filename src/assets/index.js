@@ -23,7 +23,7 @@ import background from "./background.png";
 
 import curve from "./principal/curve.png";
 import leonRojoBanda from "./principal/leonRojoBanda.jpg";
-import principalBackground from "./principal/principal-background.jpg";
+import principalBackground from "./principal/principal-background.png";
 
 import curve1 from "./collaboration/curve-1.svg";
 import curve2 from "./collaboration/curve-2.svg";
