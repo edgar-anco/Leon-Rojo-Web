@@ -2,6 +2,7 @@ import ButtonGradient from "./assets/svg/ButtonGradient";
 import Header from "./components/Header";
 import Principal from "./components/Principal";
 import Bio from "./components/Bio";
+import Contact from "./components/Contact";
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
         <Header />
         <Principal />
         <Bio />
+        <Contact />
       </div>
       <ButtonGradient />
     </>
