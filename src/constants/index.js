@@ -99,7 +99,7 @@ export const shows = [
   },
 ];
 
-export const bioText = "Hay apoyo, falta talento... ah no, así no era";
+export const bioText = "Hay apoyo, falta talento... así no era, no?";
 
 export const bioContent = [
   {

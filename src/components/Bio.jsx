@@ -1,4 +1,4 @@
-import { background, leonRojoSymbol, check } from "../assets";
+import { background, check } from "../assets";
 import { bioText, bioContent } from "../constants";
 import Section from "./Section";
 
