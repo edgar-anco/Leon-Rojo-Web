@@ -6,7 +6,7 @@ const Bio = () => {
   return (
     <Section crosses id="bio">
       <div className="container lg:flex">
-        <div className="max-w-[25rem]">
+        <div className="max-w-[25rem] lg:mx-auto">
           <h2 className="h2 mb-4 md:mb-8">Nuestros integrantes</h2>
 
           <ul className="max-w-[22rem] mb-10 md:mb-14">
