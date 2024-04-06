@@ -6,7 +6,6 @@ import {
   benefitImage2,
   bruno,
   christian,
-  discordBlack,
   edgar,
   facebook,
   file02,
@@ -22,8 +21,6 @@ import {
   logoDharma,
   logoOrange,
   searchMd,
-  telegram,
-  twitter,
   yourlogo,
 } from "../assets";
 
@@ -267,32 +264,14 @@ export const benefits = [
 export const socials = [
   {
     id: "0",
-    title: "Discord",
-    iconUrl: discordBlack,
-    url: "#",
+    title: "Facebook",
+    iconUrl: facebook,
+    url: "https://www.facebook.com/LeonRojoSM",
   },
   {
     id: "1",
-    title: "Twitter",
-    iconUrl: twitter,
-    url: "#",
-  },
-  {
-    id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
-  },
-  {
-    id: "3",
-    title: "Telegram",
-    iconUrl: telegram,
-    url: "#",
-  },
-  {
-    id: "4",
-    title: "Facebook",
-    iconUrl: facebook,
-    url: "#",
+    url: "https://www.instagram.com/leonrojosm/",
   },
 ];
