@@ -38,14 +38,12 @@ import contact from "./contact/contact.png";
 import lines from "./pricing/lines.svg";
 import stars from "./pricing/stars.svg";
 
-import coins from "./roadmap/coins.png";
-import done from "./roadmap/done.svg";
-import principal from "./roadmap/principal.png";
-import roadmap1 from "./roadmap/image-1.png";
-import roadmap2 from "./roadmap/image-2.png";
-import roadmap3 from "./roadmap/image-3.png";
-import roadmap4 from "./roadmap/image-4.png";
-import undone from "./roadmap/undone.svg";
+import done from "./shows/done.svg";
+import undone from "./shows/undone.svg";
+import show01 from "./shows/show01.png";
+import show02 from "./shows/show02.png";
+import show03 from "./shows/show03.png";
+import show04 from "./shows/show04.png";
 
 import notification1 from "./notification/image-1.png";
 import notification2 from "./notification/image-2.png";
@@ -106,13 +104,11 @@ export {
   contact,
   lines,
   stars,
-  coins,
   done,
-  principal,
-  roadmap1,
-  roadmap2,
-  roadmap3,
-  roadmap4,
+  show01,
+  show02,
+  show03,
+  show04,
   undone,
   notification1,
   notification2,

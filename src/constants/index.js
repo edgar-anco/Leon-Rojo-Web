@@ -18,10 +18,10 @@ import {
   notification4,
   pepe,
   plusSquare,
-  roadmap1,
-  roadmap2,
-  roadmap3,
-  roadmap4,
+  show01,
+  show02,
+  show03,
+  show04,
   searchMd,
   telegram,
   twitter,
@@ -54,14 +54,14 @@ export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const leonRojoContacto = ["José Luis Porras: "];
 
-export const roadmap = [
+export const shows = [
   {
     id: "0",
     title: "Voice recognition",
     text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
     date: "May 2023",
     status: "done",
-    imageUrl: roadmap1,
+    imageUrl: show01,
     colorful: true,
   },
   {
@@ -70,7 +70,7 @@ export const roadmap = [
     text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
     date: "May 2023",
     status: "progress",
-    imageUrl: roadmap2,
+    imageUrl: show02,
   },
   {
     id: "2",
@@ -78,7 +78,7 @@ export const roadmap = [
     text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
     date: "May 2023",
     status: "done",
-    imageUrl: roadmap3,
+    imageUrl: show03,
   },
   {
     id: "3",
@@ -86,7 +86,7 @@ export const roadmap = [
     text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
     date: "May 2023",
     status: "progress",
-    imageUrl: roadmap4,
+    imageUrl: show04,
   },
 ];
 
