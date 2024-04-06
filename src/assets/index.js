@@ -40,10 +40,9 @@ import stars from "./pricing/stars.svg";
 
 import done from "./shows/done.svg";
 import undone from "./shows/undone.svg";
-import show01 from "./shows/show01.png";
-import show02 from "./shows/show02.png";
-import show03 from "./shows/show03.png";
-import show04 from "./shows/show04.png";
+import logoBarbas from "./shows/logo_barbas.png";
+import logoDharma from "./shows/logo_dharma.png";
+import logoOrange from "./shows/logo_orange.png";
 
 import notification1 from "./notification/image-1.png";
 import notification2 from "./notification/image-2.png";
@@ -105,10 +104,9 @@ export {
   lines,
   stars,
   done,
-  show01,
-  show02,
-  show03,
-  show04,
+  logoBarbas,
+  logoDharma,
+  logoOrange,
   undone,
   notification1,
   notification2,
