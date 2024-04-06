@@ -2,7 +2,6 @@ import { curve, principalBackground, leonRojoBanda } from "../assets";
 import Button from "./Button";
 import Section from "./Section";
 import { BackgroundCircles, BottomLine, Gradient } from "./design/Principal";
-import { ScrollParallax } from "react-just-parallax";
 
 const Principal = () => {
   return (

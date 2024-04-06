@@ -32,7 +32,6 @@ export const HamburgerMenu = () => {
       </div>
 
       <Rings />
-
       <SideLines />
     </div>
   );
