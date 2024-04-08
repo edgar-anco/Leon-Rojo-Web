@@ -27,7 +27,7 @@ export const navigation = [
 export const leonRojoContacto = ["José Luis Porras: "];
 
 export const shows = [
-  {
+  /*{
     id: "0",
     title: "Orange Rock-Cafe",
     text: "Desde las 11 PM",
@@ -36,27 +36,29 @@ export const shows = [
     date: "Sáb. 6 Abril",
     imageUrl: logoOrange,
     colorful: true,
-  },
+  },*/
   {
-    id: "1",
+    id: "0",
     title: "Dharma Resto Bar",
     text: "Desde las 8 PM",
     facebookLink: "https://www.facebook.com/dharmaplazarestobar",
     instagramLink: "https://www.instagram.com/dharmarestobar/",
     date: "Sáb. 13 Abril",
     imageUrl: logoDharma,
+    colorful: true,
   },
   {
-    id: "2",
+    id: "1",
     title: "Bar'Bas RestoBar",
     text: "Desde las 11 PM",
     facebookLink: "https://www.facebook.com/profile.php?id=100083508004676",
     instagramLink: "https://www.instagram.com/barbasrestobar/",
     date: "Sáb. 13 Abril",
     imageUrl: logoBarbas,
+    colorful: true,
   },
   {
-    id: "3",
+    id: "2",
     title: "Orange Rock-Cafe",
     text: "Desde las 11 PM",
     facebookLink: "https://www.facebook.com/OrangeCafeRock",
@@ -65,7 +67,7 @@ export const shows = [
     imageUrl: logoOrange,
   },
   {
-    id: "4",
+    id: "3",
     title: "Bar'Bas RestoBar",
     text: "Desde las 11 PM. Las previas del Día del Trabajo!",
     facebookLink: "https://www.facebook.com/profile.php?id=100083508004676",
