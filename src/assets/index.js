@@ -14,6 +14,7 @@ import contact from "./contact/contact.png";
 import logoBarbas from "./shows/logo_barbas.png";
 import logoDharma from "./shows/logo_dharma.png";
 import logoOrange from "./shows/logo_orange.png";
+import logoBaristico from "./shows/logo_baristico.png";
 
 import facebook from "./socials/facebook.svg";
 import instagram from "./socials/instagram.svg";
@@ -32,6 +33,7 @@ export {
   logoBarbas,
   logoDharma,
   logoOrange,
+  logoBaristico,
   facebook,
   instagram,
 };

@@ -30,7 +30,7 @@ const Contact = () => {
               </li>
             ))}
           </ul>
-          <a href="https://wa.me/51937655579">+51 937 655 579</a>
+          <a href="https://wa.me/51949653330">+51 949 653 330</a>
         </div>
       </div>
     </Section>
